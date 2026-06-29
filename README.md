@@ -210,9 +210,9 @@ Top 4 factors driving customer loyalty:
 
 ## 🚀 How to Run
 
-``bash
+```bash
 # Clone repository
-git clone https://github.com/yourusername/retail_project.git
+git clone https://github.com/Gayathri-k123/Retail_Consumer_Behavior.git
 cd retail_project
 
 # Create virtual environment
